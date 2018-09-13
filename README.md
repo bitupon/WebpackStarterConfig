@@ -7,3 +7,6 @@ This repository contains the basic Webpack config files for both Development and
 
 **3. webpack.prod.js** 
 
+## NPM packages installed
+
+**1. npm install webpack --save-dev
