@@ -8,6 +8,7 @@ This repository contains the basic Webpack config files for both Development and
 - **webpack.prod.js** : This file contains the Development environment specific configurations.
 
 ## NPM packages installed
+```
 
 > npm install webpack --save-dev
 
@@ -32,3 +33,4 @@ This repository contains the basic Webpack config files for both Development and
 > npm install style-loader --save-dev
 
 > npm install mini-css-extract-plugin --save-dev
+```
